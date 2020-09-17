@@ -1,5 +1,5 @@
-
-class Player:
+#Player Class
+class Player: 
 
     def __init__(self ,name):
 
